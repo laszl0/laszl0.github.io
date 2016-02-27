@@ -10,4 +10,4 @@ Hope I can keep up the work throughout the year and not lose focus.
 
 Sorry for the bad language and typos.
 
-Want share that this blog is powered by [Jekyll](http://jekyllrb.com) and Markdown is used to author the posts.
+Want share that this blog is powered by [Jekyll](http://jekyllrb.com).
