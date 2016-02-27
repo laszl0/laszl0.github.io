@@ -1,2 +1,3 @@
 name: Laszlo Francisc Parajdi, laszl0
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
