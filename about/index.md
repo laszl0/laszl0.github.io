@@ -12,4 +12,4 @@ title: About Laszlo Francisc Parajdi
 	- [GitHub](https://github.com/laszl0) — just code
 	- [Facebook](https://www.facebook.com/laszlo.francisc.parajdi) — friends and foes
 
-</div><!-- /.blurb -->
+</div>
