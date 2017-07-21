@@ -1,5 +1,6 @@
 #!/bin/bash
 mkdir coreos
+cd coreos
 sudo apt-get update
 sudo apt-get install -y git golang-go whois
 sudo apt-get update
