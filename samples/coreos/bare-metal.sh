@@ -4,9 +4,9 @@ sudo apt-get update
 sudo apt-get install -y git golang-go whois
 sudo apt-get update
 
-cp /cdrom/cloud-config-generated.ym ./cloud-config.yml
+cp /cdrom/cloud-config-generated.yml ./cloud-config.yml
 git clone https://github.com/coreos/coreos-cloudinit
-cd coreos-coudinit
+cd coreos-cloudinit
 ./build
 cd bin
 sudo cp coreos-cloudinit /usr/bin/coreos-cloudinit
