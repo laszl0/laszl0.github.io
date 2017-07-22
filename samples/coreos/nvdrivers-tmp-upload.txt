@@ -1,0 +1,3 @@
+https://transfer.sh/nIYxB/libraries-375.66.tar.bz2
+https://transfer.sh/gK2wB/tools-375.66.tar.bz2
+https://transfer.sh/QUYz6/modules-1409.7.0-375.66.tar.bz2
